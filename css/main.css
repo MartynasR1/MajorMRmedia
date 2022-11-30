@@ -1,0 +1,21 @@
+/* Set height to 100% for body and html to enable the background image to cover the whole page: */
+body, html {
+    height: 100%
+}
+
+.bgimg {
+    background-color: rgb(141, 169, 196);
+    height: 100%;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+  }
+
+.logotipas  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-top: 8%;
+    position: center;
+}
